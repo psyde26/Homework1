@@ -7,7 +7,7 @@ def your_age(age):
     elif age <= 18:
         return('Вам в школу')
     elif age <= 25:
-        return('Вам в ВУЗ, мо')
+        return('Вам в ВУЗ')
     elif age > 25:
         return('Вам на работу')
 
